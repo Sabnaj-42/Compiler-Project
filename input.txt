@@ -1,0 +1,10 @@
+#IMPORT Lt stdio.h Gt
+
+start()
+Begin
+	func(5)
+           Begin
+              show(5);;
+           End
+End
+	

@@ -1,0 +1,11 @@
+90 #
+85 IMPORT
+45 Lt
+86 stdio.h
+44 Gt
+80 start
+52 (
+53 )
+54 Begin
+96 func
+52 (
